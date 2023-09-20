@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "depression-dataset",
+			"path": "../../../Downloads/depression-dataset"
+		},
+		{
+			"name": "groupslensapp",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
